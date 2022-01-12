@@ -1,0 +1,15 @@
+{
+    "databases": {
+        "default": {
+            "hostname": "127.0.0.1",
+            "username": "root",
+            "password": "Aa970236",
+            "port": 3306,
+            "database": "SDM"
+        }
+    },
+    "server": {
+        "publicDir": "/public",
+        "port": 3000
+    }
+}
